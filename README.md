@@ -296,5 +296,13 @@ Charge will become slower.
 a Powered USB 2.0 Hub, Belkin brand with No led, and swtiches is recommended.
 there are more advanced OTG docks with HDMI output, but more $$.
 
-this is the cheapest computer you can buy, and will work well for most office type of works, 
+what is the HP Stream useful for?
+many solar charge controllers have USB to serial emulator, + controller software.
+others have Wi-Fi optional modules...
+also some DMX light controllers, have a USB to DMX, and controllers Software...
+all those applications are easy to do on a HP Stream7 Tablet, 
+even with limited 768p resolution.
+
+this is the cheapest computer you can buy, 
+will work well for many office type tasks, 
 No 3d gaming.
