@@ -231,7 +231,7 @@ Unebootin, USB Pen Drive, Ubuntu disks, etc...
 
 HP Stream 7 was 32-Bit,
 unknown if 64-Bit version will install.
-if older than Bios 0F will detects USB installer.
+if older Bios will detect 64-Bit USB installer.
 
 with 32-Bit version, you need to install a fast microSD 32GB card inside HP Stream7,
 format NTFS, create a large pagefile.sys Virtual Memory in D: drive 4000MB minimum, 4095MB max.
