@@ -33,8 +33,8 @@ the problem is that those computers used a "special" version of Windows,
 and the problem with Windows is that,
 if you do Not install the same compatible version,
 Activation key does Not work...
-Even if the key is legit. and valid, does Not activate,
-a Windows8.1 key does Not activate Windows8.1 IF the installer CD/DVD does Not matches the version.
+Even if the key is legit and valid, does Not Activate.
+a Windows8.1 key does Not activate Windows8.1 IF the installer CD/DVD does Not match the version.
 that happens since WinXP.
 Microsoft created many different installers for the same Operating system. 
 
@@ -45,13 +45,13 @@ you need to download a completely different installer,
 erase everything and install again.
 Example:
 if you download Windows 8.1 Standard, 
-or Single Languaje or K or N, or KN.
+or Single Language or K or N, or KN.
 
 legit Windows Activation key stored in most UEFI/Bios will Not work.
 but is "the same" Windows.
 call it paranoia.
 you need to find a special Recovery DVD installer, was $55usd..
-Discontinued, No longer sold.
+Discontinued long ago, and No longer sold.
 also buy an external USB DVD drive for computers without DVD, 
 like HP Stream 7 tablet.
 
@@ -67,7 +67,7 @@ Thats why the "special" Windows version cannot be downloaded from Microsoft webs
 if you upgraded W8.1 to free W10 update and didnt like it,
 wanted to rollback and re-install Windows 8.1 
 but your HDD was small, usually Rollback partition was deleted,
-and you can´t re-install Win8.1 back with standard iso installers.
+and can´t re-install Win8.1 with standard official iso installers.
 
 Option A)
 buy another Windows license if you want to use standard windows installer.
@@ -90,22 +90,28 @@ Download the discontinued Restore DVD image from .torrent
 do a Clean install.
 delete large partition and recovery partition, 
 Not smaller boot partitions.
+Recovery partition is almost never used, not required, 
+and small ssd/hdd need that space for virtual ram more.
 
 Option D) 
 Download a pre-installed Restore Image, 
 install from a Windows restore USB.
 Saves time downloading updates.
 
-In my opinion C) is the "standard" way, for a clean install.
-Windows RTM core Bing will detect the Activation keys in the Bios / UEFI and Activate Automatically when connected to internet.
+In my opinion
+C) is the "standard" way to do a clean install.
+Windows RTM core Bing will detect Activation keys stored in the Bios / UEFI and Activate Automatically when connected to internet.
 No need to type keys, like standard verson.
 but DVD image is Old, and requires long hours of Updates,
 Windows8.1 has been improved a lot over the years,
 for examplre:
 to include Edge Browser.
 recomended to buy a USB2.0 to Ethernet adapter, 
-there are many brands that do Not require drivers.
+there are many brands that do Not require drivers, 
+exept Apple USB Ethernet adapter that requires Bootcamp5 aaix driver easy to find,
+or to download drivers from Asix website.
 Better and faster than Wi-Fi.
+https://en.wikipedia.org/wiki/Boot_Camp_(software)#Boot_Camp_support_software_(for_Windows)_version_history
 
 after install & update, configure Windows8.1 to taste,
 install Browsers:
@@ -121,11 +127,12 @@ etc...
 set All to Dark mode,
 disable Automatic updates in msconfig for Browsers.
 because old hardware is very limited, RAM, CPU, SSD,
-also Disable BitLocker Encryption. 
+also Disable "BitLocker" ssd/hdd Encryption. 
 in Weak Hardware to preserve CPU, RAM & Battery.
 drive cannot be removed anyway.
-you should never put confidential info in C: drive in a mobile device anyway.
-Disable Encryption At Your Own Risk, in the New Configuration Menu, Not Control Panel.
+and you should never put confidential info in C: drive in a mobile device anyway.
+Disable Encryption At Your Own Risk. 
+in the New Configuration Menu, Not Control Panel.
 
 Clean install =
 1 day of work to install & update Windows8.1
