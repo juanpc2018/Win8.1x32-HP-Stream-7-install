@@ -122,6 +122,8 @@ because old hardware has very limited RAM, CPU, SSD,
 also Disable BitLocker encryption 
 in Weak Hardware to preserve CPU, RAM & Battery.
 drive cannot be removed anyway.
+you should never put confidential info in C: drive in a mobile device anyway.
+Disable At Your Own Risk.
 
 1 day of work to install & update Windows8.1
 A Clean install.
@@ -283,3 +285,14 @@ W11 license allows to downgrade to W10, and Win8.1
 W10 license allows to downgrade to W8.1 and W7.
 W8.1 license allows to downgrade to W7, and Vista.
 W7 license allows to downgrade to Vista, and XP.
+
+P.D.
+HP Stream 7 Tablet requires a microUSB OTG cable...
+i recomend Dell XGJT2, that has 2 female Usb, micro and standard.
+a 2A microUSB charger with FAT cable... cheap small thin cables will fail in 1 month.
+Charge will become slower.
+a Powered USB 2.0 Hub, Belkin brand with No led, and swtiches is recommended.
+there are more advanced OTG docks with HDMI output, but more $$.
+
+this is the cheapest computer you can buy, and will work well for most office type of works, 
+No 3d gaming.
