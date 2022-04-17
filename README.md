@@ -223,10 +223,11 @@ magnet:?xt=urn:btih:cc9748e655915fbe107ca6196cebda51d544a108&dn=X19-57134_SW_DVD
 magnet:?xt=urn:btih:af8ffdaae70636719b0d70f1d30f1ba5359710b8&dn=X19-57272_SW_DVD9_NTRL_Win_with_Bing_8.1_64BIT_English_OEM.img
 
 https://archive.org/details/Windows8.1WithBing
+https://archive.org/download/Windows8.1WithBing/Windows8.1WithBing_archive.torrent
 
 download Rufus to create a USB installer.
 https://rufus.ie/en/
-or any other, there are several..
+or any other, there are others,
 Unebootin, USB Pen Drive, Ubuntu disks, etc...
 
 HP Stream 7 was 32-Bit,
