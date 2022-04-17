@@ -35,7 +35,7 @@ if you do Not install the same compatible version,
 Activation key does Not work...
 Even if the key is legit. and valid, does Not activate,
 a Windows8.1 key does Not activate Windows8.1 IF the installer CD/DVD does Not matches the version.
-that happens since WinxP.
+that happens since WinXP.
 Microsoft created many different installers for the same Operating system. 
 
 Windows is Not designed or smart to Activate Windows with a valid Key,
@@ -62,7 +62,7 @@ the reason:
 anti-monopoly law makes illegal to include Bing as default Search engine in Windows.
 
 Microsoft had several Law suits and lost.
-Thats why the "special" Windows version cannot be downloaded from Microft website.
+Thats why the "special" Windows version cannot be downloaded from Microsoft website.
 
 if you upgraded W8.1 to free W10 update and didnt like it,
 wanted to rollback and re-install Windows 8.1 
@@ -75,7 +75,7 @@ Pay for something you already have paid.
 Worse option, but has some advantages.
 Full Retail Licence allows multiple languages, and is Not Hardware locked.
 you can create a restore back-up and move windows to another hardware.
-HP Tablet dows Not allow to remove the ssd drive.
+HP Tablet does Not allow to remove the ssd drive.
 
 Option B)
 create your own RTM Core Windows Bing installer DVD
