@@ -103,8 +103,11 @@ but DVD image is Old, and requires long hours of Updates,
 Windows8.1 has been improved a lot over the years,
 for examplre:
 to include Edge Browser.
+recomended to buy a USB2.0 to Ethernet adapter, 
+there are many brands that do Not require drivers.
+Better and faster than Wi-Fi.
 
-after install & update you need to configure Windows8.1.
+after install & update, configure Windows8.1 to taste,
 install Browsers:
 browser.yandex.com
 Opera.com
@@ -115,21 +118,19 @@ Chrome / Chromium
 Telegram Desktop, 
 etc...
 
-setting All to Dark mode,
-disable Automatic updates in msconfig.
-
-because old hardware has very limited RAM, CPU, SSD,
-also Disable BitLocker encryption 
+set All to Dark mode,
+disable Automatic updates in msconfig for Browsers.
+because old hardware is very limited, RAM, CPU, SSD,
+also Disable BitLocker Encryption. 
 in Weak Hardware to preserve CPU, RAM & Battery.
 drive cannot be removed anyway.
 you should never put confidential info in C: drive in a mobile device anyway.
-Disable At Your Own Risk.
+Disable Encryption At Your Own Risk, in the New Configuration Menu, Not Control Panel.
 
+Clean install =
 1 day of work to install & update Windows8.1
-A Clean install.
 
-
-Option D) is the most desireable, 
+Option D) the most desireable, 
 because the long updates of clean install,
 you only need to do option C) once, 
 then create a Restore image .vhdx
