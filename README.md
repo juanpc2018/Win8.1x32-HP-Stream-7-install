@@ -22,7 +22,7 @@ where the heat and scratches damage the sticker.
 
 to solve that problem:
 New computers, manufactured and sold in 2006 or later
-came with Windows 8 pre-installed,
+that came with Windows 8 pre-installed,
 had Windows Activation key stored in the Bios / UEFI of the computer.
 No more stickers.
 
