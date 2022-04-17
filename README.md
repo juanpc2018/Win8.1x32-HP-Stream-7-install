@@ -34,28 +34,29 @@ and the problem with Windows is that,
 if you do Not install the same compatible version,
 Activation key does Not work...
 Even if the key is legit. and valid, does Not activate,
-a Windows8.1 key does Not activate Windows8.1 IF the installer CD/DVD matches the version.
+a Windows8.1 key does Not activate Windows8.1 IF the installer CD/DVD does Not matches the version.
 that happens since WinxP.
+Microsoft created many different installers for the same Operating system. 
 
-Windows is Not smart enough to Activate Windows with a valid Key,
-and change features acording, to the Key level.
+Windows is Not designed or smart to Activate Windows with a valid Key,
+and change features acording to the Key level.
 
 you need to download a completely different installer,
-erase everything again and install again.
+erase everything and install again.
 Example:
 if you download Windows 8.1 Standard, 
 or Single Languaje or K or N, or KN.
 
-legit Windows Activation key stored in most UEFI will Not work.
-
+legit Windows Activation key stored in most UEFI/Bios will Not work.
+but is "the same" Windows.
+call it paranoia.
 you need to find a special Recovery DVD installer, was $55usd..
 Discontinued, No longer sold.
-
 also buy an external USB DVD drive for computers without DVD, 
 like HP Stream 7 tablet.
 
 That "special" Windows is called:
-RTM Core Bing Edition,
+RTM Core / Bing Edition,
 Not downloadable from Windows Website, Nor any other Authorized "Partner".
 the reason:
 anti-monopoly law makes illegal to include Bing as default Search engine in Windows.
@@ -63,22 +64,21 @@ anti-monopoly law makes illegal to include Bing as default Search engine in Wind
 Microsoft had several Law suits and lost.
 Thats why the "special" Windows version cannot be downloaded from Microft website.
 
-...
-if you upgraded to free W10 update and dont like it,
-want to rollback, and re-install Windows 8.1 
-but your HDD was small, usually Rollback was deleted, long ago.
-you can´t re-install Win8.1 back with standard iso installers.
+if you upgraded W8.1 to free W10 update and didnt like it,
+wanted to rollback and re-install Windows 8.1 
+but your HDD was small, usually Rollback partition was deleted,
+and you can´t re-install Win8.1 back with standard iso installers.
 
 Option A)
-buy another Windows license if you want to use the standard windows installer.
-Pay for something you already have payd.
+buy another Windows license if you want to use standard windows installer.
+Pay for something you already have paid.
 Worse option, but has some advantages.
 Full Retail Licence allows multiple languages, and is Not Hardware locked.
 you can create a restore back-up and move windows to another hardware.
 HP Tablet dows Not allow to remove the ssd drive.
 
 Option B)
-create your own RTM Core Windows installer DVD
+create your own RTM Core Windows Bing installer DVD
 with DISM.exe
 there are tutorials in Microsoft website for Developers, 
 for Deploy especialists.
@@ -86,9 +86,10 @@ Complicated.
 https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-8.1-and-8/dn613856(v=win.10)
 
 Option C)
-Download the discontinued DVD image from .torrent
+Download the discontinued Restore DVD image from .torrent
 do a Clean install.
-delete large partition and recovery partition, Not the smaller boot partitions.
+delete large partition and recovery partition, 
+Not smaller boot partitions.
 
 Option D) 
 Download a pre-installed Restore Image, 
