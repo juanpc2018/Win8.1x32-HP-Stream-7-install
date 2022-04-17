@@ -107,9 +107,10 @@ Windows8.1 has been improved a lot over the years,
 for examplre:
 to include Edge Browser.
 recomended to buy a USB2.0 to Ethernet adapter, 
-there are many brands that do Not require drivers, 
-exept Apple USB Ethernet adapter that requires Bootcamp5 aaix driver easy to find,
-or to download drivers from Asix website.
+there are many brands that do Not require drivers, like Belkin F4U047,
+except Apple USB Ethernet adapter "same chip" but requires Bootcamp5 asix driver ax88772c, different HW ID, easy to find,
+or download driver from Asix.com.tw website.
+
 Better and faster than Wi-Fi.
 https://en.wikipedia.org/wiki/Boot_Camp_(software)#Boot_Camp_support_software_(for_Windows)_version_history
 
@@ -121,22 +122,25 @@ Mozilla Firefox
 Vivaldi
 Brave
 Chrome / Chromium
-Telegram Desktop, 
+Telegram / WhatsApp Desktop, 
+Oracle OpenOffice / MS Office,
 etc...
 
 set All to Dark mode,
-disable Automatic updates in msconfig for Browsers.
+Disable Automatic updates in msconfig for Browsers.
 because old hardware is very limited, RAM, CPU, SSD,
 also Disable "BitLocker" ssd/hdd Encryption. 
 in Weak Hardware to preserve CPU, RAM & Battery.
 drive cannot be removed anyway.
 and you should never put confidential info in C: drive in a mobile device anyway.
 Disable Encryption At Your Own Risk. 
-in the New Configuration Menu, Not Control Panel.
+at the New Configuration Menu, Not with Control Panel.
+
+create a Restore Back-up image, Done.
 
 Clean install =
 1 day of work to install & update Windows8.1
-IF you have all the things required, OTG cable, Bettery fully charged, USB Hub, etc...
+IF you have all tools required: OTG cable, USB memory, Battery fully charged, USB Hub, etc...
 
 Option D) the most desireable, 
 because long updates of clean install,
