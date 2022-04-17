@@ -129,15 +129,16 @@ Disable Encryption At Your Own Risk, in the New Configuration Menu, Not Control 
 
 Clean install =
 1 day of work to install & update Windows8.1
+IF you have all the things required, OTG cable, Bettery fully charged, USB Hub, etc...
 
 Option D) the most desireable, 
-because the long updates of clean install,
+because long updates of clean install,
 you only need to do option C) once, 
 then create a Restore image .vhdx
 in Windows  / Control Panel / System and Security / File History / System Image Backup / Create a system image.
 also Create a Recovery USB drive.
 
-and Install / restore that image to other machines...
+and Install / restore that image to other machines or same machine later if want a Clean install again...
 
 needs a software to read the Bios/UEFI Activation Keys,
 and Change manually Windows Key to the Actual Key stored in the UEFI of the machine.
