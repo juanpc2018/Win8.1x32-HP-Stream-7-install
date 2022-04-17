@@ -227,12 +227,12 @@ But is nice to known the Activation keys in the Bios before making a Bios upgrad
 to latest .0F
 
 i recomend storing the Bios file in a USB drive, and upgrade Bios when booting
-pressing Power Button 1 secong + Holding Volume Down.
+pressing Power Button 1 second + Holding Volume Down.
 F1 or F2 Bios option.
 All upgrades must be done with battery full, over 95%.
 
 
-Windows8.1 Standard & Single Languaje Downloads:
+Windows8.1 Standard & Single Language Downloads:
 https://www.microsoft.com/en-us/software-download/windows8ISO
 Not needed with computers from 2006 with pre-installed Windows8 from factory.
 
@@ -244,14 +244,14 @@ then use a software to read the key stored in the bios,
 OR... find the key card included in the boxed Windows "retail version",
 or... the email key when puchased from microsoft store.
 
-manually type the Activation key connected to internet.
+manually type the Activation key when connected to internet.
 
 If you purchased a Boxed Windows8/8.1, 
-OEM or Full Retail, or Virtual License from Microsoft online store.
+OEM, Full Retail or Virtual License from Microsoft online store.
 you have a Key Card with the Activation Code.
 
 if you lost the key card, 
-you need to buy another key again from windows if Not stored in the UEFI / Bios.
+you need to buy another key again from windows, if key is Not stored in the UEFI / Bios.
 
 OEM licenses are Not interchangeable between different Hardware.
 cannot be Activated in a different Hardwares.
