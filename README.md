@@ -1,5 +1,5 @@
 # Win8.1x32-HP-Stream-7-install
-How &amp; Why
+
 ¿Why you want to "downgrade" Windows 10 to Win8.1 in 2022?
 instead of "upgrading" to Windows 11?
 &
@@ -206,40 +206,57 @@ magnet:?xt=urn:btih:cc9748e655915fbe107ca6196cebda51d544a108&dn=X19-57134_SW_DVD
 
 magnet:?xt=urn:btih:af8ffdaae70636719b0d70f1d30f1ba5359710b8&dn=X19-57272_SW_DVD9_NTRL_Win_with_Bing_8.1_64BIT_English_OEM.img
 
+HP Stream 7 was 32-Bit,
+unknown if 64-Bit version will install.
+
+with 32-Bit version, you need to install a fast microSD 32GB card inside HP Stream7,
+format NTFS, create a large pagefile.sys Virtual Memory in D: drive 4000MB minimum, 4095MB max.
+same for C: drive.
+will overcome the 1GB of RAM limitation. 
+the faster the microSD, the better.
 
 Software to see UEFI Windows Activation Key:
 https://h30434.www3.hp.com/psg/attachments/psg/OS/539223/2/ShowKeyPlus1.0.6477.zip
-works with HP Stream 7, may Not work with other brands of computers.
-Not needed with RTM Core Edition.
-But is nice to known the Win Activation keys before making a Bios upgrade.
+works with HP Stream 7, 
+may Not work with other brands of computers.
+Not needed with RTM Core Bing Edition.
+But is nice to known the Activation keys in the Bios before making a Bios upgrade.
 to latest .0F
+
+i recomend storing the Bios file in a USB drive, and upgrade Bios when booting
+pressing Power Button 1 secong + Holding Volume Down.
+F1 or F2 Bios option.
+All upgrades must be done with battery full, over 95%.
+
 
 Windows8.1 Standard & Single Languaje Downloads:
 https://www.microsoft.com/en-us/software-download/windows8ISO
-Not needed with computers from 2006 with Win8 pre-installed from factory.
+Not needed with computers from 2006 with pre-installed Windows8 from factory.
 
 Emergency Generic Activation key for W8.1 standard.
 334NH-RXG76-64THK-C7CKG-D3VPT
 To install without a Key,
-Will Not activate Windows, only allows to install Win8.1.
-then use a software to read the key storer in the bios, 
-OR... find the key card included in the boxed windows "retail version",
-or... the key included in the email when puchased from microsoft store.
+Will Not activate Windows, only allows to install Win8.1
+then use a software to read the key stored in the bios, 
+OR... find the key card included in the boxed Windows "retail version",
+or... the email key when puchased from microsoft store.
 
-Then manually type the Activation key connected to internet.
+manually type the Activation key connected to internet.
 
-If you purchased a Boxed Windows8, 
-OEM or Full Retail or Virtual License from Microsoft online store.
+If you purchased a Boxed Windows8/8.1, 
+OEM or Full Retail, or Virtual License from Microsoft online store.
 you have a Key Card with the Activation Code.
 
-if you lost that key card, 
-you need to buy another key again from windows.
+if you lost the key card, 
+you need to buy another key again from windows if Not stored in the UEFI / Bios.
 
 OEM licenses are Not interchangeable between different Hardware.
 cannot be Activated in a different Hardwares.
 are Hacdware locked.
 If Hardware fails, license is lost,
-BUT... if you had a Image Back-up you can move tro other machine, buy a new OEM license and activate again.
+BUT... if you had an Image Back-up,
+you can restore / move windows to another machine, 
+and buy a new OEM license or Full Licesnse to activate again.
 
 Retail, Boxed, Full Online Store license "Not OEM, Not Single Language, Not N, Not K"
 can be ReActivsated unlimited times in different Hardwares.
