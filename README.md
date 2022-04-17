@@ -217,12 +217,14 @@ To me W10 is inferior,
 Pointless to make a back-up, but thats just my opinion.
 
 
-RTM Core Bing Editions:
+2014 RTM Core Bing Editions:
+
 magnet:?xt=urn:btih:cc9748e655915fbe107ca6196cebda51d544a108&dn=X19-57134_SW_DVD9_NTRL_Win_with_Bing_8.1_32BIT_English_OEM.img
 
 magnet:?xt=urn:btih:af8ffdaae70636719b0d70f1d30f1ba5359710b8&dn=X19-57272_SW_DVD9_NTRL_Win_with_Bing_8.1_64BIT_English_OEM.img
 
 https://archive.org/details/Windows8.1WithBing
+
 https://archive.org/download/Windows8.1WithBing/Windows8.1WithBing_archive.torrent
 
 download Rufus to create a USB installer.
@@ -235,7 +237,7 @@ unknown if 64-Bit version will install.
 if older Bios will detect 64-Bit USB installer.
 
 with 32-Bit version, you need to install a fast microSD 32GB card inside HP Stream7,
-format NTFS, create a large pagefile.sys Virtual Memory in D: drive 4000MB minimum, 4095MB max.
+format NTFS, create a large pagefile.sys Virtual Memory in D: 4000MB minimum, 4095MB max.
 same for C: drive.
 will overcome the 1GB of RAM limitation. 
 the faster the microSD, the better.
