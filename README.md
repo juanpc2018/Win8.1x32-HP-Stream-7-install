@@ -86,7 +86,7 @@ Complicated.
 https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-8.1-and-8/dn613856(v=win.10)
 
 Option C)
-Download the discontinued Restore DVD image from .torrent
+Download the discontinued Restore DVD image from torrent or way back machine archive
 do a Clean install.
 delete large partition and recovery partition, 
 Not smaller boot partitions.
@@ -222,8 +222,16 @@ magnet:?xt=urn:btih:cc9748e655915fbe107ca6196cebda51d544a108&dn=X19-57134_SW_DVD
 
 magnet:?xt=urn:btih:af8ffdaae70636719b0d70f1d30f1ba5359710b8&dn=X19-57272_SW_DVD9_NTRL_Win_with_Bing_8.1_64BIT_English_OEM.img
 
+https://archive.org/details/Windows8.1WithBing
+
+download Rufus to create a USB installer.
+https://rufus.ie/en/
+or any other, there are several..
+Unebootin, USB Pen Drive, Ubuntu disks, etc...
+
 HP Stream 7 was 32-Bit,
 unknown if 64-Bit version will install.
+if older than Bios 0F will detects USB installer.
 
 with 32-Bit version, you need to install a fast microSD 32GB card inside HP Stream7,
 format NTFS, create a large pagefile.sys Virtual Memory in D: drive 4000MB minimum, 4095MB max.
