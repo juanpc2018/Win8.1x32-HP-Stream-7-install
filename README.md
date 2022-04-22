@@ -34,7 +34,7 @@ and the problem with Windows is that,
 if you do Not install the same compatible version,
 Activation key does Not work...
 Even if the key is legit and valid, does Not Activate.
-a Windows8.1 key does Not activate Windows8.1 IF the installer CD/DVD does Not match the version.
+A valid Windows8.1 key does Not activate Windows8.1 IF the installer CD/DVD does Not match the version.
 that happens since WinXP.
 Microsoft created many different installers for the same Operating system. 
 
@@ -65,17 +65,17 @@ Microsoft had several Law suits and lost.
 Thats why the "special" Windows version cannot be downloaded from Microsoft website.
 
 if you upgraded W8.1 to free W10 update and didnt like it,
-wanted to rollback and re-install Windows 8.1 
-but your HDD was small, usually Rollback partition was deleted,
-and can´t re-install Win8.1 with standard official iso installers.
+wanted to rollback and re-install Windows 8.1 later,
+but your HDD was small, usually the Rollback partition was deleted because it was imposible to use W10,
+Now can´t re-install Win8.1 with standard official iso installers.
 
 Option A)
 buy another Windows license if you want to use standard windows installer.
 Pay for something you already have paid.
 Worse option, but has some advantages.
 Full Retail Licence allows multiple languages, and is Not Hardware locked.
-you can create a restore back-up and move windows to another hardware.
-HP Tablet does Not allow to remove the ssd drive.
+you can create a restore back-up and move Windows to another Hardware.
+HP Tablet does Not allow to remove ssd drive.
 
 Option B)
 create your own RTM Core Windows Bing installer DVD
@@ -101,7 +101,7 @@ Saves time downloading updates.
 In my opinion
 C) is the "standard" way to do a clean install.
 Windows RTM core Bing will detect Activation keys stored in the Bios / UEFI and Activate Automatically when connected to internet.
-No need to type keys, like standard verson.
+No need to type keys, like standard version.
 but DVD image is Old, and requires long hours of Updates,
 Windows8.1 has been improved a lot over the years,
 for examplre:
@@ -128,7 +128,8 @@ etc...
 
 set All to Dark mode,
 Disable Automatic updates in msconfig for Browsers.
-because old hardware is very limited, RAM, CPU, SSD,
+disable most startup items in TaskManager.
+because old hardware is very limited: RAM, CPU, SSD.
 also Disable "BitLocker" ssd/hdd Encryption. 
 in Weak Hardware to preserve CPU, RAM & Battery.
 drive cannot be removed anyway.
@@ -136,7 +137,7 @@ and you should never put confidential info in C: drive in a mobile device anyway
 Disable Encryption At Your Own Risk. 
 at the New Configuration Menu, Not with Control Panel.
 
-create a Restore Back-up image, Done.
+create a Restore Back-up image on a external HDD, Done.
 
 Clean install =
 1 day of work to install & update Windows8.1
@@ -151,8 +152,8 @@ also Create a Recovery USB drive.
 
 and Install / restore that image to other machines or same machine later if want a Clean install again...
 
-needs a software to read the Bios/UEFI Activation Keys,
-and Change manually Windows Key to the Actual Key stored in the UEFI of the machine.
+needs a software to read the Bios/UEFI Activation Keys if installing to other machine,
+and Change manually Windows Key to the Actual Key stored in the other UEFI machine.
 
 If Windows detects 2 machines online with same Key, will Deactivate both.
 there are many softwares available to read the keys stored in the UEFI Bios.
@@ -172,7 +173,7 @@ W11 still is Not there yet.
 
 W11 vs. W10
 is like:
-OSX Mejave vs. OSX Catalina.
+OSX Mojave vs. OSX Catalina.
 or 
 OSX Sierra vs. OSX High Sierra,
 "almost the same"
@@ -183,14 +184,14 @@ is going back to the future.
 better in anyway than W10.
 
 some games & machines does Not work in W8.1
-but are rare, a small minoroty, 
+but are rare, a small minority, 
 most will.
 
-Then you need to download Win8.1 drivers from HP website.
+you need to download HP Stream 7 drivers for Win8.1
 https://support.hp.com/us-en/drivers/selfservice/hp-stream-tablets/7439994/model/7482041
 
 some people think:
-Windows 8.1 RTM Core version "Bing"
+Windows 8.1 RTM Core "Bing" Edition
 is an inferior, cutdown version of standard Win8.1 Single Languaje.
 
 in my experience, seems more advanced, smarter in some ways.
@@ -203,14 +204,14 @@ thats the advantage of a Clean W8.1 install,
 the tutorial, very good.
 
 if want to go back to W10 for some strange reason,
-you can make a Restore image before deleting the SSD / HDD,
+you can make a Restore image BEFORE Deleting the SSD / HDD,
 W10 will return to exactly the same condition you left.
 
 There is No Risk installing W8.1
-IF you make an Image Bakcups.
-only need a large 1 or 2TB external USB3.0 drive,
+IF you make Image Bakcups.
+only need a large 1TB external USB3.0 drive,
 formatted in NTFS to store the image backup.
-and also to have multiple Images stored:
+and also to have multiple Images stored in different folder:
 W8.1 W10, W11.
 
 To me W10 is inferior,
@@ -236,8 +237,8 @@ HP Stream 7 was 32-Bit,
 unknown if 64-Bit version will install.
 if older Bios will detect 64-Bit USB installer.
 
-with 32-Bit version, you need to install a fast microSD 32GB card inside HP Stream7,
-format NTFS, create a large pagefile.sys Virtual Memory in D: 4000MB minimum, 4095MB max.
+with 32-Bit version, you need to install a fast microSD 32GB U3 card inside HP Stream7.
+format NTFS, create a large pagefile.sys Virtual Memory in D: 4000MB minimum, 4092MB max.
 same for C: drive.
 will overcome the 1GB of RAM limitation. 
 the faster the microSD, the better.
@@ -247,7 +248,7 @@ https://h30434.www3.hp.com/psg/attachments/psg/OS/539223/2/ShowKeyPlus1.0.6477.z
 works with HP Stream 7, 
 may Not work with other brands of computers.
 Not needed with RTM Core Bing Edition.
-But is nice to known the Activation keys in the Bios before making a Bios upgrade.
+But is nice to known the Activation keys in your Bios before making a Bios upgrade.
 to latest .0F
 
 i recomend storing the Bios file in a USB drive, and upgrade Bios when booting
