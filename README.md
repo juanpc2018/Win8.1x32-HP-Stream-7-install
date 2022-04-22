@@ -328,3 +328,23 @@ even with limited 768p resolution.
 this is the cheapest computer you can buy, 
 will work well for many office type tasks, 
 No 3d gaming.
+
+----
+Win8.1 Dark Theme:
+simple way to have Semi-Hollow Dark Theme,
+Mouse Right Click in Empty Desktop,
+Personalize, set Wallpaper to Solid Color, and Select Black. RGB0,0,0
+
+Download: WinaeroTweaker
+https://winaero.com/winaero-tweaker/#download
+
+set:
+Appereance: Aero Colors: Aero Color [Black], Color Balance 100, Apply & Save.
+Then:
+Advanced Appereance Settings: Window Borders: Custom Window Borders: 
+Border width: 1
+Border padding: 0
+Apply
+
+Will Giove a Hollow Dark Slim Modern Look.
+
