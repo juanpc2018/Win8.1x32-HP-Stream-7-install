@@ -291,16 +291,12 @@ OEM allow to make System Backup & Restore to same machine.
 Retail, Boxed, Full Online Store license "Not OEM, Not Single Language, Not N, Not K"
 can be ReActivated unlimited times in different Hardwares.
 
-
-Older Windows Downloader Tool:
-https://h30434.www3.hp.com/psg/attachments/psg/OS/539223/1/Windows7-USB-DVD-Download-Tool-Installer-en-US.zip
-
 Other alternative:
 if want to go Back to XP, NT4 era.
-try installing:
+try:
 https://reactos.org/
 
-Donation ware,
+Donationware,
 code compatible, drivers compatible, based on Wine.
 usually for old software using Parallel Port devices, like CNC machines.
 
