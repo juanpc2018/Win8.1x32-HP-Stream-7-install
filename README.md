@@ -278,9 +278,9 @@ you have a Key Card with the Activation Code.
 if you lost the key card, 
 you need to buy another key again from windows, if key is Not stored in the UEFI / Bios.
 
-OEM licenses are Not interchangeable between different Hardware.
-cannot be Activated in a different Hardwares.
-are Hacdware locked.
+OEM licenses are Not interchangeable between different Hardware. 
+cannot be ReActivated in a different Hardware.
+are Hardware locked.
 If Hardware fails, license is lost,
 BUT... if you had an Image Back-up,
 you can restore / move windows to another machine, 
