@@ -277,17 +277,19 @@ you have a Key Card with the Activation Code.
 
 if you lost the key card, 
 you need to buy another key again from windows, if key is Not stored in the UEFI / Bios.
-
-OEM licenses are Not interchangeable between different Hardware. 
-cannot be ReActivated in a different Hardware.
-are Hardware locked.
-If Hardware fails, license is lost,
-BUT... if you had an Image Back-up,
-you can restore / move windows to another machine, 
-and buy a new OEM license or Full Licesnse to activate again.
+BUt... Microsoft does Not sell 8.1 licenses, and W10 OEM license does Not allow to Downgrade to 8.1,
+only Pro & Enterprice licenses allow to Downgrade. 
+OEM licenses are Not interchangeable between different Hardware.
+Cannot be ReActivated in a different Hardware.
+OEM are Hardware locked.
+If Hardware fails, license is lost.
+if you have a System Image Backup,
+you can restore Windows to another machine, new hdd,
+if its a Pro or Enterprise Full Licesnse.
+OEM allow to make System Backup & Restore to same machine.
 
 Retail, Boxed, Full Online Store license "Not OEM, Not Single Language, Not N, Not K"
-can be ReActivsated unlimited times in different Hardwares.
+can be ReActivated unlimited times in different Hardwares.
 
 
 Older Windows Downloader Tool:
